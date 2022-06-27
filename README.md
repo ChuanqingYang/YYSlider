@@ -12,4 +12,4 @@ struct ContentView: View {
 }
 
 ```
-![](https://github.com/ChuanqingYang/YYSlider/blob/main/1.png)
+![](https://github.com/ChuanqingYang/YYSlider/blob/main/preview.png)
