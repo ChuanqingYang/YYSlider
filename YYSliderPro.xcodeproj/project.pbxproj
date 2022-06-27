@@ -13,6 +13,7 @@
 		1864BD7C2869BB8800E5137E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1864BD7B2869BB8800E5137E /* Preview Assets.xcassets */; };
 		1864BD7E2869BB8800E5137E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1864BD7D2869BB8800E5137E /* Persistence.swift */; };
 		1864BD812869BB8800E5137E /* YYSliderPro.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1864BD7F2869BB8800E5137E /* YYSliderPro.xcdatamodeld */; };
+		1864BD882869BC4300E5137E /* YYSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1864BD872869BC4300E5137E /* YYSliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		1864BD7B2869BB8800E5137E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1864BD7D2869BB8800E5137E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		1864BD802869BB8800E5137E /* YYSliderPro.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = YYSliderPro.xcdatamodel; sourceTree = "<group>"; };
+		1864BD872869BC4300E5137E /* YYSliderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YYSliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				1864BD742869BB8700E5137E /* YYSliderProApp.swift */,
 				1864BD762869BB8700E5137E /* ContentView.swift */,
+				1864BD872869BC4300E5137E /* YYSliderView.swift */,
 				1864BD782869BB8800E5137E /* Assets.xcassets */,
 				1864BD7D2869BB8800E5137E /* Persistence.swift */,
 				1864BD7F2869BB8800E5137E /* YYSliderPro.xcdatamodeld */,
@@ -145,6 +148,7 @@
 			files = (
 				1864BD7E2869BB8800E5137E /* Persistence.swift in Sources */,
 				1864BD772869BB8700E5137E /* ContentView.swift in Sources */,
+				1864BD882869BC4300E5137E /* YYSliderView.swift in Sources */,
 				1864BD812869BB8800E5137E /* YYSliderPro.xcdatamodeld in Sources */,
 				1864BD752869BB8700E5137E /* YYSliderProApp.swift in Sources */,
 			);
